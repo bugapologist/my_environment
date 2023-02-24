@@ -1,0 +1,6 @@
+#!bin/bash
+clang-format -i --style=file *.cpp *.hpp *.h;
+g++ -std=c++23 -g *.cpp -o program | cat > output;
+echo "*****compile ended, program start*****";
+echo "                                      ";
+./program
