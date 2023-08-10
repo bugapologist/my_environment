@@ -14,4 +14,4 @@ alias ll='ls -l --color=auto'
 alias l='ls -al --color=auto'
 alias cp='cp -r'
 export EDITOR=vim
-PS1="${pur}\u@\h ${grn}\w\n${grn}> ${wht}"
+PS1="${pur}\u@\h ${grn}\w\n\e[32m>\e[0m "
