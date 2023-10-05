@@ -54,7 +54,7 @@ floating_modifier Mod1
 tiling_drag modifier titlebar
 
 # start a terminal
-bindsym Mod1+Return exec urxvt -fg LightSalmon -bg Grey7
+bindsym Mod1+Return exec urxvt -bg Grey7 -fg LightSalmon
 
 # kill focused window
 bindsym Mod1+Shift+q kill
