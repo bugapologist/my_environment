@@ -1,0 +1,4 @@
+! xrdb ~/.Xresources
+*.foreground: #93a1a1 
+*.background: #141c21 
+*.cursorColor: #afbfbf
