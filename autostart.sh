@@ -1,3 +1,3 @@
 #!/bin/bash
 xrdb ~/.Xresources
-#nitrogen --setbackground
+nitrogen --restore &
