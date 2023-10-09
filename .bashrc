@@ -20,4 +20,7 @@ alias ll='ls -lF --color=auto'
 alias l='ls -alF --color=auto'
 alias cp='cp -r'
 export EDITOR=vim
-PS1="${pur}\u@\h ${grn}\w\n\e[32m>\e[0m "
+
+#shell style
+#PS1="${pur}\u@\h ${grn}\w\n\e[32m>\e[0m "
+PS1="${ylw}\w\n${cyn}\u@\h\e[33m*\e[0m"

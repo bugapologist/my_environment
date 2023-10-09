@@ -1,0 +1,13 @@
+install vim, networkmanager, base-devel, linux-firmware, i3, i3status, xorg, xorg-xinit, rxvt-unicode
+
+repos
+	visual-studio-code-bin
+	https://aur.archlinux.org/google-chrome.git
+	gh repo clone i3
+
+docs/wifi
+	nmcli dev wifi list
+	nmcli dev wifi connect [network] password [password]
+
+firewall 
+desktop background
