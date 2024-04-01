@@ -1,7 +1,7 @@
 !URxvt*font: xft:Victor Mono:size=7.5
 !URxvt*boldfont: xft:Victor Mono:size=7.5
-!URxvt.letterSpace: 2
-URxvt.boldFont:
+URxvt.letterSpace: 2
+URxvt.boldFont: #fcba03
 *.foreground: #93a1a1  
-*.background: #141c21  
+*.background: black  
 *.cursorColor: #afbfbf
