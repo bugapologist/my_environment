@@ -16,8 +16,8 @@ wht='\[\033[01;37m\]'   # White
 clr='\[\033[00m\]'      # Reset
 
 # omit '--color=auto' for bsd env
-alias ll='ls -lF --color=auto'
-alias l='ls -alF --color=auto'
+alias l='ls -lF --color=auto'
+alias ll='ls -alF --color=auto'
 alias cp='cp -r'
 export EDITOR=vim
 
